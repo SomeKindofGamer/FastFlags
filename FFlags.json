@@ -1,3 +1,14 @@
 {
-    "test": true
+    "EventEggReq": 2000,
+
+    "eventText": "400K Event: ",
+    "currentEvents": {
+        "Clicks": 1,
+        "EggHatches": 0,
+        "Gems": 1,
+        "HatchSpeed": 1,
+        "Luck": 1,
+        "LuckAdd": 0,
+        "Rebirths": 1
+    }
 }
