@@ -4,9 +4,9 @@
     "showEvent": false,
     "eventText": "400K Event: ",
     "currentEvents": {
-        "Clicks": 1,
-        "EggHatches": 0,
-        "Gems": 1,
+        "Clicks": 2,
+        "EggHatches": 2,
+        "Gems": 2,
         "HatchSpeed": 1,
         "Luck": 1,
         "LuckAdd": 0,
