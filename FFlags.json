@@ -1,6 +1,7 @@
 {
     "EventEggReq": 2000,
 
+    "showEvent": false,
     "eventText": "400K Event: ",
     "currentEvents": {
         "Clicks": 1,
