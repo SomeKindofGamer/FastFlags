@@ -1,15 +1,15 @@
 {
     "EventEggReq": 2000,
 
-    "showEvent": true,
-    "eventText": "Shoober Event: ",
+    "showEvent": false,
+    "eventText": "NO EVENT CAUSE OF SMELLY DXRK",
     "currentEvents": {
-        "Clicks": 250,
-        "EggHatches": 2,
-        "Gems": 2,
+        "Clicks": 1,
+        "EggHatches": 0,
+        "Gems": 1,
         "HatchSpeed": 1,
         "Luck": 1,
         "LuckAdd": 0,
-        "Rebirths": 5555
+        "Rebirths": 1
     }
 }
