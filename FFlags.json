@@ -1,15 +1,15 @@
 {
     "EventEggReq": 2000,
 
-    "showEvent": "false",
-    "eventText": "NO EVENT CAUSE OF SMELLY DXRK",
+    "showEvent": "true",
+    "eventText": "",
     "currentEvents": {
-        "Clicks": 1,
+        "Clicks": 1000,
         "EggHatches": 0,
-        "Gems": 1,
-        "HatchSpeed": 1.1,
+        "Gems": 5,
+        "HatchSpeed": 1.25,
         "Luck": 1,
-        "LuckAdd": 0,
-        "Rebirths": 1
+        "LuckAdd": 1,
+        "Rebirths": 2
     }
 }
