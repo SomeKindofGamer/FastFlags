@@ -4,8 +4,8 @@
     "showEvent": "true",
     "eventText": "",
     "currentEvents": {
-        "Clicks": 1000,
-        "EggHatches": 0,
+        "Clicks": 3750,
+        "EggHatches": 1,
         "Gems": 5,
         "HatchSpeed": 1.25,
         "Luck": 1,
