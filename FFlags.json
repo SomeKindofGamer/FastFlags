@@ -2,11 +2,11 @@
     "EventEggReq": 2000,
 
     "showEvent": "true",
-    "eventText": "480K Event: ",
+    "eventText": "530K Event: ",
     "currentEvents": {
-        "Clicks": 7500,
-        "EggHatches": 2,
-        "Gems": 10,
+        "Clicks": 10000,
+        "EggHatches": 3,
+        "Gems": 12.5,
         "HatchSpeed": 1.35,
         "Luck": 1,
         "LuckAdd": 1.5,
