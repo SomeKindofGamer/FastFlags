@@ -2,11 +2,11 @@
     "EventEggReq": 2000,
 
     "showEvent": "true",
-    "eventText": "530K Event: ",
+    "eventText": "Summer Event: ",
     "currentEvents": {
-        "Clicks": 10000,
+        "Clicks": 25000,
         "EggHatches": 3,
-        "Gems": 12.5,
+        "Gems": 15,
         "HatchSpeed": 1.35,
         "Luck": 1,
         "LuckAdd": 1.5,
