@@ -2,14 +2,14 @@
     "EventEggReq": 2000,
 
     "showEvent": "true",
-    "eventText": "650K Event: ",
+    "eventText": "Christmas Event: ",
     "currentEvents": {
-        "Clicks": 35000,
-        "EggHatches": 3,
-        "Gems": 20,
-        "HatchSpeed": 1.35,
-        "Luck": 1,
-        "LuckAdd": 1.75,
-        "Rebirths": 2.5
+        "Clicks": 50000,
+        "EggHatches": 5,
+        "Gems": 40,
+        "HatchSpeed": 1.5,
+        "Luck": 1.25,
+        "LuckAdd": 2,
+        "Rebirths": 3
     }
 }
